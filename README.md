@@ -37,3 +37,7 @@ Talking about whether web scraping is legal or not, some websites allow web scra
 
 
 ![result2](https://user-images.githubusercontent.com/63738852/159107074-acb63f75-64ed-4fec-98da-1c87ae02f766.png)
+
+
+
+
