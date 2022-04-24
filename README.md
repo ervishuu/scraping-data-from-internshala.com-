@@ -2,7 +2,7 @@
 
 >*Web Scraping with Python*
 
-Imagine you have to pull a large amount of data from websites and you want to do it as quickly as possible. How would you do it without manually going to each website and getting the data? Well, “Web Scraping” is the answer. Web Scraping just makes this job easier and faster. 
+Imagine you have to pull a large amount of data 📈 from websites and you want to do it as quickly as possible. How would you do it without manually going to each website and getting the data? Well, “Web Scraping” is the answer. Web Scraping just makes this job easier and faster. 
 
 >*What is Web Scraping ?*
 
@@ -45,8 +45,11 @@ Talking about whether web scraping is legal or not, some websites allow web scra
 
 
 
+# Hi, I'm Vishvanath ! 👋
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvanath-metkari-586617197/)
+
 
 
